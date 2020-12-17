@@ -3,3 +3,4 @@
 ################################################################################
 
 /.vs/slnx.sqlite
+/aspnetcore-with-docker/core-docker-compose/obj
