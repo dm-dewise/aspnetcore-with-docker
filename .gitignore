@@ -4,3 +4,6 @@
 
 /.vs/slnx.sqlite
 /aspnetcore-with-docker/core-docker-compose/obj
+/aspnetcore-with-docker/bin/Debug
+/aspnetcore-with-docker/core-docker-compose/bin/Debug/net5.0
+/aspnetcore-with-docker/obj
