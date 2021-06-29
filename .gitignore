@@ -7,3 +7,4 @@
 /aspnetcore-with-docker/bin/Debug
 /aspnetcore-with-docker/core-docker-compose/bin/Debug/net5.0
 /aspnetcore-with-docker/obj
+node_modules
